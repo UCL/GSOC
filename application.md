@@ -4,7 +4,7 @@ title: Application template
 permalink: /application/
 short: Application
 ---
-# How to get a very good application!
+# How to submit a very good application!
 
 Read the [official student guide](http://write.flossmanuals.net/gsocstudentguide/what-is-google-summer-of-code/)
 with detail. There are many hints on how to increase your chances to get

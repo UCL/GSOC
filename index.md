@@ -4,7 +4,7 @@ title: Google Summer of Code with UCL
 #short: GSOC
 ---
 
-#  <img src="https://summerofcode.withgoogle.com/static/img/summer-of-code-logo.svg" alt="GSOC" style="vertical-align: text-top"> Google Summer of Code with UCL
+#  <img src="https://summerofcode.withgoogle.com/static/img/summer-of-code-logo.svg" alt="GSOC" style="vertical-align: text-top"> Google Summer of Code with UCL RSDG
 
 
 With the [Google Summer of Code](https://summerofcode.withgoogle.com/) (GSOC),
